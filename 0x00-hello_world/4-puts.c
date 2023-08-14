@@ -1,14 +1,11 @@
 #include<stdio.h>
-/**
- *
- * main : Entry point
- *
- * Return : Always 0 (Success)
- */
 
+/**
+ * main - This is the main function
+ * description - The starting point of the program
+ */
 int main(void)
 {
       puts ("\"Programming is like building a multilingual puzzle");
       return (0);
-
 }

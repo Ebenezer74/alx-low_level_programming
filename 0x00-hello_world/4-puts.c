@@ -1,11 +1,11 @@
-#include<stdio.h>
-
+#include <stdio.h>
 /**
- * main - This is the main function
- * description - The starting point of the program
+ * main - A program that prints with put function
+ * Return: 0 (Success)
  */
 int main(void)
 {
-      puts ("\"Programming is like building a multilingual puzzle");
-      return (0);
+	puts("\"programming is like building a multilingual puzzle\n");
+	return (0);
 }
+

@@ -8,5 +8,6 @@ int main(void)
 	char name = 'A';
 
 	putchar(name);
+	putchar('\n');
 	return (0);
 }

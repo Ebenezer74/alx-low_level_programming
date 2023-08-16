@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *main - This function prints a character using _putchar method
- *R eturn: 0 (Success)
+ * main - This function prints a character using _putchar method
+ * Return: 0 (Success)
  */
 int main(void)
 {

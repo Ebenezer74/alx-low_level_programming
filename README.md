@@ -1,1 +1,1 @@
-This repository is for alx c programming project
+This an Alx repo for programming in c projects
